@@ -6,7 +6,7 @@ import Login from './pages/Login.jsx'
 import Profile from './pages/Profile.jsx'
 import ForgetPassword from './pages/ForgetPassword.jsx'
 import { Navigate } from 'react-router-dom'
-export const serverUrl="http://localhost:8000"
+export const serverUrl="https://tech-8nv0.onrender.com"
  import { ToastContainer } from 'react-toastify';
 import getCurrentUser from './customHooks/getCurrentUser.js'
 
