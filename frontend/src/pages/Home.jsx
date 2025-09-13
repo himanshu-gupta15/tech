@@ -2,7 +2,7 @@ import React from 'react'
 import home from '../assets/home.jpg'
 import Nav from '../component/Nav'
 import ai from '../assets/ai.png'
-import ai1 from '../assets/searchAi.png'
+import ai1 from '../assets/SearchAi.png'
 import { SiViaplay } from "react-icons/si";
 
 import Logos from '../component/Logos'
