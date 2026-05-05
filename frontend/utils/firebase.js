@@ -28,12 +28,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
-  authDomain: "googellogin-virtual-course.firebaseapp.com",
-  projectId: "googellogin-virtual-course",
-  storageBucket: "googellogin-virtual-course.appspot.com", // ✅ fixed
-  messagingSenderId: "590759705251",
-  appId: "1:590759705251:web:f31d296b6a4336d8925d16",
+  apiKey: "NEW_API_KEY",
+  authDomain: "login-tech-48ca5.firebaseapp.com",
+  projectId: "login-tech-48ca5",
+  storageBucket: "login-tech-48ca5.appspot.com",
+  messagingSenderId: "...",
+  appId: "..."
 };
 
 // Initialize Firebase
